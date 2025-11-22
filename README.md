@@ -1,8 +1,7 @@
 # Tools
 
 ## EA DLC Unlocker v2
-`EA DLC Unlocker v2.zip`
-
+- `EA DLC Unlocker v2.zip`
 With this tool you can unlock DLCs for your legit game. Some DLCs require additional files. You won't be able to download them through Origin/EA app/Steam (unless you actually buy them).
 
 ### Installation instructions:
@@ -15,9 +14,8 @@ With this tool you can unlock DLCs for your legit game. Some DLCs require additi
 If your DLCs suddenly stop working - it's because EA app updated and removed the DLC Unlocker. So simply install it again.
 
 ## Remid cookie grabber
-`remid-cookie-grabber.7z`
-`remid_cookie_grabber.exe.7z`
-
+- `remid-cookie-grabber.7z`
+- `remid_cookie_grabber.exe.7z`
 Tool for Windows, for grabbing remid cookie needed to log into the online module for Origin Emulator. Currently used in The Sims 4 crack only. I can't be bothered to update the instructions in the emulator - it will point to a deleted github page. Same for the video instructions - deleted video. Oh well...
 
 ## Sims related UserScripts
@@ -26,6 +24,9 @@ Tool for Windows, for grabbing remid cookie needed to log into the online module
 These were made to make downloading from The Sims Resource, Sims Finds, Patreon and Around The Sims easier. Previously shared only on two Discord servers, now out in the open. Read the markdown file (.md) for installation instructions.
 
 ## EA Get Token
+`ea-get-token.7z`
+`get_token.exe.7z`
+
 Windows tool for getting the auth token from EA app. Made for Origin Helper.
 
 ## TS1 and TS2 launchers
