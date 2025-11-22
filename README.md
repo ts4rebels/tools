@@ -37,6 +37,8 @@ Windows tool for getting the auth token from EA app. Made for Origin Helper.
 Launchers for The Sims 1 and 2 Legacy Editions. They set the necessary registry keys and let you change the language.
 
 ## Patcher
+`patcher.7z`
+
 A tool for making and applying patches. This is what Updater was using under the hood.
 
 ## Other Sims 4 stuff
