@@ -42,10 +42,17 @@ Launchers for The Sims 1 and 2 Legacy Editions. They set the necessary registry 
 A tool for making and applying patches. This is what Updater was using under the hood.
 
 ## Other Sims 4 stuff
+`ts4installer-tumblr-files.7z`
+`sims-4-tools.7z`
+
 These two repositories were interlinked. One has old files I used on my first website - my tumblr page. That includes UserScripts for downloading from TS4 gallery and TS3 exchange, tumblr page template, file hashes and validator's main brains. The other one contains validator HTML page, event unlocker page, gallery downloader page, dlc toggler, dlc uninstaller, language changer, scripts for listing sims folders, and more.
 
 ## Python scripts for ZIP files
+`misc_python_scripts.7z`
+
 One is for extracting ZIP files from the end - useful when you don't have enough space to keep the archive and extracted files at the same time. The other one extends/fixes zipfile module from Python.
 
 ## EA library in Python
+`ea.7z`
+
 It's a Python library for interacting with EA API. Logging in with remid cookie, grabbing list of your games, grabbing info about game, grabbing download link...
