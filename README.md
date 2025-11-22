@@ -32,6 +32,8 @@ These were made to make downloading from The Sims Resource, Sims Finds, Patreon 
 Windows tool for getting the auth token from EA app. Made for Origin Helper.
 
 ## TS1 and TS2 launchers
+`TS-helper-tools.7z`
+
 Launchers for The Sims 1 and 2 Legacy Editions. They set the necessary registry keys and let you change the language.
 
 ## Patcher
