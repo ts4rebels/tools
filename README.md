@@ -2,17 +2,9 @@
 
 ## EA DLC Unlocker v2
 `EA DLC Unlocker v2.zip`
+`EA DLC Unlocker for Mac.zip`
 
 With this tool you can unlock DLCs for your legit game. Some DLCs require additional files. You won't be able to download them through Origin/EA app/Steam (unless you actually buy them).
-
-### Installation instructions:
-0. Download and extract EA DLC Unlocker.
-1. Run "setup.bat". (Special note for Sims players since I'm tired of hearing "but how do I run the setup.bat file?" - the same way you run any program or game on your PC - by double clicking on it. It may be displayed as just "setup".)
-2. Select "Install" to install the Unlocker. The script automatically detects if you have EA app or Origin installed. If you have both it will detect EA app only and game started from Origin won't have the DLCs unlocked! If this happens reinstall Origin and run the script again or use the manual installation instructions in the readme file.
-3. Select "Add/Update game config" and select the game.
-4. Download DLC files if needed - see the links below. (Special note for Sims players - YES, you need the DLC files. DLC Unlocker doesn't download anything.)
-
-If your DLCs suddenly stop working - it's because EA app updated and removed the DLC Unlocker. So simply install it again.
 
 ## Remid cookie grabber
 `remid-cookie-grabber.7z`
