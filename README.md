@@ -21,6 +21,8 @@ If your DLCs suddenly stop working - it's because EA app updated and removed the
 Tool for Windows, for grabbing remid cookie needed to log into the online module for Origin Emulator. Currently used in The Sims 4 crack only. I can't be bothered to update the instructions in the emulator - it will point to a deleted github page. Same for the video instructions - deleted video. Oh well...
 
 ## Sims related UserScripts
+`sims-userscripts.7z`
+
 These were made to make downloading from The Sims Resource, Sims Finds, Patreon and Around The Sims easier. Previously shared only on two Discord servers, now out in the open. Read the markdown file (.md) for installation instructions.
 
 ## EA Get Token
