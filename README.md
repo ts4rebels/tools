@@ -2,6 +2,7 @@
 
 ## EA DLC Unlocker v2
 `EA DLC Unlocker v2.zip`
+
 With this tool you can unlock DLCs for your legit game. Some DLCs require additional files. You won't be able to download them through Origin/EA app/Steam (unless you actually buy them).
 
 ### Installation instructions:
